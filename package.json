@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/wwwy3y3/treee",
   "dependencies": {
-    "easy-tree": "0.0.3"
+    "easy-tree": "0.0.3",
+    "q": "^1.1.2",
+    "q-io": "^1.11.6"
   }
 }
