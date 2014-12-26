@@ -1,0 +1,25 @@
+{
+  "name": "treee",
+  "version": "0.0.0",
+  "description": "walk through file system and output a tree",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wwwy3y3/treee.git"
+  },
+  "keywords": [
+    "tree",
+    "fs",
+    "utils",
+    "filesystem"
+  ],
+  "author": "wwwy3y3",
+  "license": "mit",
+  "bugs": {
+    "url": "https://github.com/wwwy3y3/treee/issues"
+  },
+  "homepage": "https://github.com/wwwy3y3/treee"
+}
