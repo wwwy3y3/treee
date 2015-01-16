@@ -1,6 +1,6 @@
 {
   "name": "treee",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "walk through file system and output a tree",
   "main": "index.js",
   "scripts": {
