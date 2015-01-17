@@ -9,7 +9,7 @@ npm install treee
 ## api
 ``` javascript
 var treee= require('treee');
-treee.get(<filepath>)
+treee.get(<dirpath>)
 	 .then(function(tree){
 	 	// do whatever you want to the tree
 	 })
